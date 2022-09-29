@@ -2,11 +2,14 @@
 
 Que es Common Gateway interface CGI
 
-Es una interfaz de los servidores web que permite intercambiar datos entre los servidores y las aplicaciones externas de manera estandarizada.
+Es una importante tecnología de la World Wide Web
+
+
 
 ¿Qué lenguaje se utiliza en programación?
 
 Los lenguajes de programación utilizados son generalmente C / C ++ y Perl.
 
+¿Para que sirve?
 
-
+ Permite a un cliente (navegador web) solicitar datos de un programa ejecutado en un servidor web. CGI especifica un estándar para transferir datos entre el cliente y el programa.
