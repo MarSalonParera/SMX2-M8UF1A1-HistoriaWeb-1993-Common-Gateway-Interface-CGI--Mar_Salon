@@ -4,7 +4,7 @@ Que es Common Gateway interface CGI
 
 Es una importante tecnología de la World Wide Web
 
-
+![Imagen](https://github.com/MarSalonParera/SMX2-M8_UF1_A2-HistoriaWeb-1993-Common-Gateway-Interface-CGI--Mar_Salon/blob/main/FOTO%203.jpg)
 
 ¿Qué lenguaje se utiliza en programación?
 
